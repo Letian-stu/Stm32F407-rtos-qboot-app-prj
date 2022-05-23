@@ -1,0 +1,32 @@
+[
+ {
+  "path": "/packages/iot/ota_downloader", 
+  "ver": "latest", 
+  "name": "OTA_DOWNLOADER"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "v1.0.0", 
+  "name": "FAL"
+ }, 
+ {
+  "path": "/packages/system/qboot", 
+  "ver": "latest", 
+  "name": "QBOOT"
+ }, 
+ {
+  "path": "/packages/peripherals/quick_led", 
+  "ver": "latest", 
+  "name": "QLED"
+ }, 
+ {
+  "path": "/packages/misc/quicklz", 
+  "ver": "v1.0.1", 
+  "name": "QUICKLZ"
+ }, 
+ {
+  "path": "/packages/misc/crclib", 
+  "ver": "v1.02", 
+  "name": "CRCLIB"
+ }
+]
