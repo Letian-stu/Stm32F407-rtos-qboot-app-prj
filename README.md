@@ -26,4 +26,4 @@ stm32f407zg
 ### Stm32F4-spi-qboot-mini
 * 对qboot的移植,分区设置,可以使用ymodem_ota
 ### Stm32F4-spi-usb-at
-* 使用esp8266实现连接网络,http_ota
+* 使用esp8266实现连接网络,http_ota,使能usb-device对w25q16的filesystem读写
