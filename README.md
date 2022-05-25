@@ -5,7 +5,9 @@ rt-thred studio
 ## 开发板
 stm32f407zg
 ## 使用外设
-w25q16 esp8266
+* uart1   shell
+* spi1    w25q16 
+* uart2   esp8266
 ## 使用软件包
 ### Stm32F4-spi-qboot-mini
 * crclib-v1.02
@@ -24,4 +26,4 @@ w25q16 esp8266
 ### Stm32F4-spi-qboot-mini
 * 对qboot的移植,分区设置,可以使用ymodem_ota
 ### Stm32F4-spi-usb-at
-* 实现连接网络,http_ota
+* 使用esp8266实现连接网络,http_ota
