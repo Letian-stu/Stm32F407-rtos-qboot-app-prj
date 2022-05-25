@@ -2,7 +2,7 @@
 
 ## 开发工具
 rt-thred studio
-## 开发板
+## 使用芯片
 stm32f407zg
 ## 使用外设
 * uart1   shell
