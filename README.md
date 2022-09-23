@@ -31,3 +31,6 @@ stm32f407zg
 * 使用esp8266实现连接网络;
 * http_ota;
 * 使能usb-device对w25q16的filesystem读写;
+
+## 过程链接
+https://www.elecfans.com/d/1845708.html
